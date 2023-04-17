@@ -1,0 +1,6 @@
+list=[1,2,'deepthi']
+tuple=(1,'frg','gty')
+print(list)
+print(tuple)
+print(list[0])
+print(tuple[0:2])
